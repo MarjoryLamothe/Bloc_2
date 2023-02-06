@@ -1,0 +1,4 @@
+,Model,Score,Metric,Target,Mode
+,Ridge Regression,0.18,R2,Growth,Predictive
+,Deep Learning (Multi-Layers Denses),0.20,R2,Growth,Predictive
+,Deep Learning (Multi-Layers GRU for time series),0.09,R2,Growth,Predictive

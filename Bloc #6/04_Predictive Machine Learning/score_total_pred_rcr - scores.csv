@@ -1,0 +1,8 @@
+,Model,Score,Metric,Target,Mode
+,Ridge Classifier,0.41,Accuracy,Regeneration coverate rate,Predictive
+,Average Trend,0.54,F1,Regeneration coverate rate,Predictive
+,Constant Trend,0.46,F1,Regeneration coverate rate,Predictive
+,XG_Boost,0.49,F1,Regeneration coverate rate,Predictive
+,Deep Learning (Multi-Layers Denses),0.44,Accuracy,Regeneration coverate rate,Predictive
+,Deep Learning (Multi-Layers GRU for time series),0.58,Accuracy,Regeneration coverate rate,Predictive
+,Deep Learning (Multi-Layers GRU for time series + MLD parallele),0.588,Accuracy,Regeneration coverate rate,Predictive

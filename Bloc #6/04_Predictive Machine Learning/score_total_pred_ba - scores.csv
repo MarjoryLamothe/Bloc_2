@@ -1,0 +1,8 @@
+,Model,Score,Metric,Target,Mode
+,Ridge Regression,0.68,R2,Basal Area (m2 / ha),Predictive
+,XGBoost,0.69,R2,Basal Area (m2 / ha),Predictive
+,Deep Learning (Multi-Layers Denses),0.68,R2,Basal Area (m2 / ha),Predictive
+,Average Trend,0.68,R2,Basal Area (m2 / ha),Predictive
+,Constant Trend,0.63,R2,Basal Area (m2 / ha),Predictive
+,Deep Learning (Multi-Layers GRU for time series),0.76,R2,Basal Area (m2 / ha),Predictive
+,Deep Learning (Multi-Layers GRU for time series + MLD parallele),0.75,R2,Basal Area (m2 / ha),Predictive
